@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.afe02ec8.css",
+    "main.js": "/my-app/static/js/main.ac0de9ec.js",
+    "static/media/ai.png": "/my-app/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/my-app/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/my-app/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/my-app/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/my-app/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/my-app/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/my-app/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/my-app/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/my-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/my-app/index.html",
+    "main.afe02ec8.css.map": "/my-app/static/css/main.afe02ec8.css.map",
+    "main.ac0de9ec.js.map": "/my-app/static/js/main.ac0de9ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe02ec8.css",
+    "static/js/main.ac0de9ec.js"
+  ]
+}
