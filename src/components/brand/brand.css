@@ -1,0 +1,9 @@
+.gpt3__brand{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.gpt3__brand > div > img{
+    margin: 0.5rem 3rem;
+}
